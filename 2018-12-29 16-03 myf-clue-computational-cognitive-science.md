@@ -4,13 +4,13 @@
 
 ## 目录
 
-* 1.直接寻找
-	* 1.1 维基百科
-	* 1.2 阳老师博客
-	* 1.3 阳老师豆列
-* 2.顺藤摸瓜
-* 其它
-* Change Log
+* 1.[直接寻找](https://github.com/MaiYunfei2000/IA003project/blob/master/2018-12-29%2016-03%20myf-clue-computational-cognitive-science.md#1%E7%9B%B4%E6%8E%A5%E5%AF%BB%E6%89%BE)
+	* 1.1 [维基百科](https://github.com/MaiYunfei2000/IA003project/blob/master/2018-12-29%2016-03%20myf-clue-computational-cognitive-science.md#11-%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91)
+	* 1.2 [阳老师博客](https://github.com/MaiYunfei2000/IA003project/blob/master/2018-12-29%2016-03%20myf-clue-computational-cognitive-science.md#12-%E9%98%B3%E8%80%81%E5%B8%88%E5%8D%9A%E5%AE%A2)
+	* 1.3 [阳老师豆列](#jump)
+* 2.[顺藤摸瓜](https://github.com/MaiYunfei2000/IA003project/blob/master/2018-12-29%2016-03%20myf-clue-computational-cognitive-science.md#13-%E9%98%B3%E8%80%81%E5%B8%88%E4%B9%A6%E5%8D%95)
+* [其它](https://github.com/MaiYunfei2000/IA003project/blob/master/2018-12-29%2016-03%20myf-clue-computational-cognitive-science.md#%E5%85%B6%E5%AE%83)
+* [Change Log](https://github.com/MaiYunfei2000/IA003project/blob/master/2018-12-29%2016-03%20myf-clue-computational-cognitive-science.md#change-log)
 
 ## 1.直接寻找
 
@@ -78,20 +78,20 @@ Google:`"计算认知科学" site:yangzhiping.com`，然后在页面内用`计�
 	
 	获得重要人物Josh，以及他突出地干了些啥。
 
-* [书单之书单 - 阳志平的网志](https://www.yangzhiping.com/psy/booklist.html)
+* **[书单之书单 - 阳志平的网志](https://www.yangzhiping.com/psy/booklist.html)**
 
 	然后挖到了一个↓
 
 	* [计算认知科学实验室小组](http://www.douban.com/group/391831/)
 
-* [书事 - 阳志平的网志](https://www.yangzhiping.com/psy/2016books.html)
+* **[书事 - 阳志平的网志](https://www.yangzhiping.com/psy/2016books.html)**
 
 	一点学习指引，其实与本次没什么关系。不过也先放进来，未来学习能有点引导作用。
 
 	* > **Q5. 先学哪一个学科，学习其他学科的速度大大提高？**
 	* > 可以简陋地分成三个大的脉络：科学、人文与工程。科学上，越偏数理，掌握得越好，学得就越快。拿我对心理学的学习举例，因为当初在市场调研公司工作过，深入掌握了结构方程模型（SEM）等相关统计软件，之后又创办心理测量公司，熟悉项目反应理论（IRT）。因此，心理学对自己难度很低。再拿之后自己进入认知科学领域举例，先从数理化程度更高的计算认知科学这门学科入手，之后认知科学就迎刃而解。
 	
-* [2016 年读书札记 - 阳志平的网志](https://www.yangzhiping.com/psy/2016booklist.html)
+* **[2016 年读书札记 - 阳志平的网志](https://www.yangzhiping.com/psy/2016booklist.html)**
 	
 	继续交叉验证。
 	
@@ -103,6 +103,8 @@ Google:`"计算认知科学" site:yangzhiping.com`，然后在页面内用`计�
 「心智黑客」和「心灵电路」。
 
 稍后创建zotero公共目录，收录这两个豆列进来，并对与此次topic密切相关的书籍mark上标签`计算认知科学`，然后把那些书的作者马克到这里。
+
+「用『信任』过滤信息」赛高！
 
 ## 2.顺藤摸瓜
 
@@ -122,5 +124,6 @@ Google:`"计算认知科学" site:yangzhiping.com`，然后在页面内用`计�
 
 ## Change Log
 
-2018-12-29 16-20 创建文档。
-2018-12-29 18-03 完成`### 1.1`&`### 1.2`。
+2018-12-29 16-20 创建文档。  
+2018-12-29 18-03 完成`### 1.1`&`### 1.2`。  
+2018-12-29 18-23 建立目录和锚点。  
