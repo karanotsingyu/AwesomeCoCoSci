@@ -14,8 +14,10 @@
 * 最小知识：该学科的诞生是为了"understand the basis behind the human method of processing of information"。
 * 核心话语体系
 	* 人工智能(artificial intelligence)
+		* Simon & Newell
 	* 计算认知建模(computational cognitve modeling)
-	* 
+		* John Anderson
+	* 联结主义网络(connectionist network)  
 
 ### 1.2 阳老师博客
 
@@ -28,3 +30,7 @@ Google:`计算认知科学 site:yangzhiping.com`
 #### 1.3.2 “心灵电路”
 
 ## 2.信息整理
+
+## Change Log
+
+2018-12-29 16-20 创建文档。
