@@ -28,7 +28,7 @@
 	* 计算认知建模(computational cognitve modeling)
 		* John Anderson
 	* 联结主义网络(connectionist network)  
-* 参考的文献里可能会有相关的综述，可从中挖掘计算认知科学的最小知识。以及还可以从中挑出重点对象，继续挖引文。
+* 参考的文献里可能会有相关的综述，可从中挖掘计算认知科学的最小知识和学者。以及还可以从中挑出重点对象，继续挖引文和学者。
 	* Green, C., & Sokal, Michael M. (2000). "Dispelling the "Mystery" of Computational Cognitive Science". History of Psychology. 3 (1): 62–66. doi:[10.1037/1093-4510.3.1.62](https://doi.org/10.1037%2F1093-4510.3.1.62)
 	* Sun, Ron (2008). Introduction to computational cognitive modeling. Cambridge, MA: Cambridge handbook of computational psychology. ISBN 978-0521674102.
 	* ["Stanford Encyclopedia of Philosophy, Computer Simulations in Science"](http://plato.stanford.edu/entries/simulations-science/)
