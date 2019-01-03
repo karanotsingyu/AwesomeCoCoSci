@@ -106,8 +106,13 @@
 
 【文献PDF】
 
-* 
-* 
+谷歌学术搜索结果旁边没有附上文献PDF链接的话，这些是收集文献PDF的方便途径：
+
+* 书籍——[Genesis](http://libgen.io/)
+	* 使用书名来检索。
+	* 细节使用不明白的话马上call一下我。
+* 论文——[Sci-Hub: removing barriers in the way of science](https://sci-hub.tw/)
+	* 使用URL,PMID,DOI来检索。最后一个比较靠谱。
 
 ### 5.2 合作细则
 
