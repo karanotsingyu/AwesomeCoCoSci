@@ -9,11 +9,11 @@
 待补充。
 
 * [1. 工作说明](https://github.com/MaiYunfei2000/IA003project#1-%E5%B7%A5%E4%BD%9C%E8%AF%B4%E6%98%8E)
-	* [1.1 流程清单]()
-	* [1.2 重要计划]()
-	* [1.3 流程的流程]()
-	* [1.4 其它]()
-	* [1.5 注意事项]()
+	* [1.1 流程清单](https://github.com/MaiYunfei2000/IA003project#11-%E6%B5%81%E7%A8%8B%E6%B8%85%E5%8D%95)
+	* [1.2 重要计划](https://github.com/MaiYunfei2000/IA003project#12-%E9%87%8D%E8%A6%81%E8%AE%A1%E5%88%92)
+	* [1.3 流程的流程](https://github.com/MaiYunfei2000/IA003project#13-%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%81%E7%A8%8B)
+	* [1.4 其它](https://github.com/MaiYunfei2000/IA003project#14-%E5%85%B6%E5%AE%83)
+	* [1.5 注意事项](https://github.com/MaiYunfei2000/IA003project#15-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 * [2. 协作规则](https://github.com/MaiYunfei2000/IA003project#2-%E5%8D%8F%E4%BD%9C%E8%A7%84%E5%88%99)
 	* [2.1 文件(夹)](https://github.com/MaiYunfei2000/IA003project#21-%E6%96%87%E4%BB%B6%E5%A4%B9)
 	* [2.2 issue标题命名](https://github.com/MaiYunfei2000/IA003project#22-issue%E6%A0%87%E9%A2%98%E5%91%BD%E5%90%8D)
