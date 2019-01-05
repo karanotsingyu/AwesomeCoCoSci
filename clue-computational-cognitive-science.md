@@ -50,15 +50,20 @@ Google:`"计算认知科学" site:yangzhiping.com`，然后在页面内用`计�
 * **[关于计算认知科学的随想 - 阳志平的网志](https://www.yangzhiping.com/psy/cogsci.html)**  
 
 	搜索结果的首条。阳老师早在13年就整理了一批资源！
+	
+	（⚠️后来发现：“计算认知科学教材
+http://health.adelaide.edu.au/psychology/ccs/teaching/ccs/”网页已挂。）
 
 光是这个就已经有够消化的了。不过秉着交叉验证的思想还要继续往下看。
 
 * **[认知科学入门书单 - 阳志平的网志](https://www.yangzhiping.com/psy/CognitiveScience.html)**
 
 	* > 认知科学核心枝干是：计算认知科学；认知神经科学；认知心理学。
-	* > 计算认知科学(的入门书目，MYF注)：Computational Neuroscience and Cognitive Modelling，备选 The Cambridge Handbook of Computational Psychology  
+	* > 计算认知科学：Computational Neuroscience and Cognitive Modelling，备选 The Cambridge Handbook of Computational Psychology  
 	
 	验证了计算认知科学作为自变量的因变量是认知科学。交叉验证了下手计算认知科学的文献。
+	
+	两本书目的信息及PDF已保存至zotero共享群组里`maiyunfei_temp=>C.Book=>1.Selected Book`。
 
 * **[认知科学与心理科学优质资源索引 - 阳志平的网志](https://www.yangzhiping.com/info/resources)**
 
@@ -111,6 +116,8 @@ Google:`"计算认知科学" site:yangzhiping.com`，然后在页面内用`计�
 基于初次寻找的信息进行间接寻找。
 
 思路generating
+
+* The Cambridge Handbook of Computational Psychology的作者[Ron Son](https://scholar.google.com/citations?user=MD8-GMcAAAAJ&hl=en&oi=sra)是个大佬。
 
 ## Change Log
 
