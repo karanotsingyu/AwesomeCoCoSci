@@ -10,8 +10,8 @@
 
 * [1. 工作说明](https://github.com/MaiYunfei2000/IA003project#1-%E5%B7%A5%E4%BD%9C%E8%AF%B4%E6%98%8E)
 	* [1.1 流程清单](https://github.com/MaiYunfei2000/IA003project#11-%E6%B5%81%E7%A8%8B%E6%B8%85%E5%8D%95)
-	* [1.2 重要计划](https://github.com/MaiYunfei2000/IA003project#12-%E9%87%8D%E8%A6%81%E8%AE%A1%E5%88%92)
-	* [1.3 流程的流程](https://github.com/MaiYunfei2000/IA003project#13-%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%81%E7%A8%8B)
+	* [1.2 流程的流程](https://github.com/MaiYunfei2000/IA003project#12-%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%81%E7%A8%8B)
+	* [1.3 重要计划](https://github.com/MaiYunfei2000/IA003project#13-%E9%87%8D%E8%A6%81%E8%AE%A1%E5%88%92)
 	* [1.4 其它](https://github.com/MaiYunfei2000/IA003project#14-%E5%85%B6%E5%AE%83)
 	* [1.5 注意事项](https://github.com/MaiYunfei2000/IA003project#15-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 * [2. 协作规则](https://github.com/MaiYunfei2000/IA003project#2-%E5%8D%8F%E4%BD%9C%E8%A7%84%E5%88%99)
@@ -59,7 +59,15 @@
 7. 整合上述所有信息，制作PPT的demo，交给教练寻求意见。
 8. 完善PPT，反复练习演讲。
 
-### 1.2 重要计划
+### 1.2 流程的流程
+
+* 每输出一份文件的MVP后：
+	* 在issue上发出来给其它同学审阅
+	* 然后编辑此文档，**回到上面的`**流程清单**`的相应文字，给它增添上相应链接**。
+* w6d4前可以不断地迭代优化。
+* w6d4后搬运到code里，方便麦云飞在本地查看、制作PPT。
+
+### 1.3 重要计划
 
 用任何自己惯用的形式（例如备忘录或是日历app）提醒自己这些重要节点。
 
@@ -67,20 +75,13 @@
 	* 输出1.2.提及的文件。（继续细化各自的时间安排，以免积压一堆没完成的就尴尬了）
 	* w5d3 19:42 之前，在[报告区](https://github.com/MaiYunfei2000/IA003project/issues/6)报告自己的进展。
 	* w6d2 19:42 之前，在报告区报告自己的进展。
+	* 此期间麦云飞若有空查看，会进行回复。
 * 第二阶段：w6d1→w6d4
 	* 尝试解决3.4.5.，若有困难则及时止损，马上进入下一阶段。
 * 第三阶段：w6d3→w6d6
 	* 制作PPT，至少完成demo。
 * 第四阶段：w6d6→w7d1/2
 	* 完善PPT并预演。
-
-### 1.3 流程的流程
-
-* 每输出一份文件的MVP后：
-	* 在issue上发出来给其它同学审阅
-	* 然后编辑此文档，**回到上面的`**流程清单**`的相应文字，给它增添上相应链接**。
-* w6d4前可以不断地迭代优化。
-* w6d4后搬运到code里，方便麦云飞在本地查看、制作PPT。
 
 ### 1.4 其它
 
