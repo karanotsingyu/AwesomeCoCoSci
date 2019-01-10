@@ -27,7 +27,7 @@
 
 ## 1. 工作说明
 
-⚠️重要⚠️
+⚠️此节内容已失效，请转移至[idea-v2.0](https://github.com/MaiYunfei2000/IA003ComputationalCognitiveScience/issues/8)⚠️
 
 ### 1.1 流程清单
 
@@ -66,7 +66,7 @@
 	* -[ ] 制作PPT的demo，交给教练寻求意见。
 8. 完善PPT，反复练习演讲。
 
-另外还有一份以最终报告形式的checklist，参见[此文档](https://github.com/MaiYunfei2000/IA003ComputationalCognitiveScience/blob/master/report.md)。
+另外还有一份以最终报告形式呈现的checklist，参见[此文档](https://github.com/MaiYunfei2000/IA003ComputationalCognitiveScience/blob/master/report.md)。
 
 ### 1.2 流程的流程
 
@@ -246,6 +246,6 @@ PS：前期不确定顺序或是后续是否还会从中间插入新版块的话
 
 ## changelog
 
-* 190109 1500 麦云飞①往清单里补充任务：任务3里的生成学科信息工具箱。②修改任务内容，任务5的寻找“异同”改为“联系之处”、把任务3里的“寻找学科变化趋势”改为发展等级任务。③补充新版块：`## 4.`。
+* 190109 1500ci 麦云飞①往清单里补充任务：任务3里的生成学科信息工具箱。②修改任务内容，任务5的寻找“异同”改为“联系之处”、把任务3里的“寻找学科变化趋势”改为发展等级任务。③补充新版块：`## 4.`。
 * 190105 1540 麦云飞建立带链接的目录。修改若干细节。
 * 190105 1525 麦云飞完成初版。
