@@ -128,6 +128,7 @@
 
 ### 参考资源
 * [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
+* [IA003计算认知小组信息清单的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)
 
 ### ChangeLog
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版
