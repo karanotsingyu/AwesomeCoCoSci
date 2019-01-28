@@ -92,7 +92,7 @@
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
 
-##书单
+## 书单
 * [Computational Neuroscience and Cognitive Modelling](https://book.douban.com/subject/25816519/)  接地气的一本书，教你用 Python 直接上手编程。
 * [The Cambridge Handbook of Computational Psychology](https://book.douban.com/subject/3219419/) 计算认知科学领域最重要的一本著作。
 * [心智：认知科学导论](https://book.douban.com/subject/10794539/)
