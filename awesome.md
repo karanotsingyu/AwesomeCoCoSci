@@ -9,14 +9,12 @@
 ## 协会
 
 * 认知科学学会 [Cognitive Science Society](http://www.cognitivesciencesociety.org)
- 
 * 认知计算神经科学会议 [Cognitive computational Neuroscience](https://ccneuro.org/) 
-
 * 中国认知科学学会 [Chinese Society for Cognitive Science](http://www.cogsci.org.cn/) ：2013年成立
 
 ## 奖项
-* 特罗兰研究奖 [Troland Research Awards](https://web.archive.org/web/20130126003831/http:/www.nasonline.org/about-nas/awards/troland-research-awards.html)：美国科学院颁发
 
+* 特罗兰研究奖 [Troland Research Awards](https://web.archive.org/web/20130126003831/http:/www.nasonline.org/about-nas/awards/troland-research-awards.html)：美国科学院颁发
 * 大卫·E·鲁梅尔哈特奖 [The David E. Rumelhart Prize](http://www.cognitivesciencesociety.org/rumelhartprize/)：认知科学学会颁发
 
 ## 值得追踪的实验室
@@ -45,15 +43,17 @@
 * 宾夕法尼亚大学计算机与信息科学系：[认知计算组](http://cogcomp.org/)
 * 加利福尼亚大学圣地亚哥分校：[科特雷尔实验室](http://cseweb.ucsd.edu/groups/guru/index.html)
 
-
 ## 几大流派的主要人物
+
 ### ACT-R 
+
 * [John R. Anderson](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html)
 * [Christian Lebiere](https://www.andrew.cmu.edu/user/cl/home.html)
 * [Niels A. Taatgen](http://www.ai.rug.nl/~niels/)
 * [Mike Byrne](http://chil.rice.edu/byrne/)
 
 ### Bayesian
+
 * [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html)，约书亚是 Bayesian 流派重要的人物，师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
 * [Tom Griffiths](http://cocosci.princeton.edu/tom/tom.php)
 * [Noah D. Goodman](https://cocolab.stanford.edu/ndg.html)
@@ -62,6 +62,7 @@
 * [Jacob Feldman](https://ruccs.rutgers.edu/jacob)
 
 ### Connectionist
+
 * [James L. McClelland](https://profiles.stanford.edu/jay-mcclelland?tab=bio)
 * [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Michael S. C. Thomas](http://www.bbk.ac.uk/psychology/dnl/?page_id=317)
@@ -71,18 +72,21 @@
 * [David C. Plaut](https://scholar.google.com/citations?user=Rr847PIAAAAJ&hl=en)
 
 ### Dynamical Systems
+
 * [Gregor Schoner](https://www.ini.rub.de/the_institute/people/gregor-schoner/#about_me)
 * [J.A.S. Kelso](http://www.ccs.fau.edu/~kelso/)
 * [Yulia Sandamirskaya](https://scholar.google.com/citations?user=E1jhoakAAAAJ&hl=en)
 * [Estela Bicho](https://scholar.google.com/citations?user=WPnxJB0AAAAJ&hl=en)
 
 ### Declarative/Logic-Based
+
 * [Selmer Bringsjord](http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/selmer-bringsjord)
 * [Ron Sun](https://sites.google.com/site/drronsun/)
 * [Sergei Nirenburg](http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/nirenburg)
 * [Wayne D. Gray](http://homepages.rpi.edu/~grayw/)
 
 ### Others
+
 * [Jonathan D. Cohen](https://webapps.pni.princeton.edu/ncc/JDC/JDC/Home_Page.html)
 * [Olaf Sporns](http://www.indiana.edu/~cortex/CV_Olaf_Sporns.pdf)
 * [Tom Mitchell]()
@@ -93,6 +97,7 @@
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
 
 ## 书单
+
 * [Computational Neuroscience and Cognitive Modelling](https://book.douban.com/subject/25816519/)  接地气的一本书，教你用 Python 直接上手编程。
 * [The Cambridge Handbook of Computational Psychology](https://book.douban.com/subject/3219419/) 计算认知科学领域最重要的一本著作。
 * [心智：认知科学导论](https://book.douban.com/subject/10794539/)
@@ -100,6 +105,7 @@
 
 
 ## 牛刊与科学新闻
+
 * [Scimago Journal & Country Rank](https://www.scimagojr.com/index.php) ：检索学术影响力
 
 * [Nature的神经科学](https://www.nature.com/subjects/neuroscience)
@@ -111,6 +117,7 @@
 * [如何成长：统计，结构和抽象](http://videolectures.net/nips2010_tenenbaum_hgm/)：麻省理工的Joshua B. Tenenbaum在2010年第24届神经信息处理系统年会（NIPS）上的讲话 
 
 ## 优秀机构和论文精选集
+
 * [认知建模论文选](http://cseweb.ucsd.edu/~gary/CogSciLiterature.html)：Cottrell总结的，有近100年的该领域的主要论文清单，及他人对论文的评价，含PDF下载。
 
 * [贝叶斯方法的阅读清单](http://cocosci.princeton.edu/tom/bayes.html)：Tom Griffiths总结的贝叶斯方法论文精选集
@@ -118,19 +125,23 @@
 * [认知科学领域相关研究者](http://cseweb.ucsd.edu/~gary/Advice.html)：按学校分类
 * [概念的概率模型](http://probmods.org/)
 
-## 豆列
+## 豆瓣
+
 * [计算认知科学实验室](https://www.douban.com/group/391831/)：阳志平老师创建的小组，在2012-2013年期间活跃，留下不少好资料。
 * [心智何来？统计、结构和抽象](https://www.douban.com/group/topic/28366354/?author=1)
 
 ## 专业刊物
+
 * 认知科学趋势 [Trends in Cognitive Science](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences?aims-and-scope=true)：由Cell Press出版的月度同行评审期刊
 * 计算认知科学 [Computational Cognitive Science](https://link.springer.com/journal/40469)：2015~2016，2016年12月停刊
 
 ### 参考资源
+
 * [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
 * [IA003计算认知小组信息清单的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)
 
 ### ChangeLog
+
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版
 * 190126 ZAPP 在小耳朵同学基础上增补内容
 
