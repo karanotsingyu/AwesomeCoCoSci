@@ -47,14 +47,14 @@
 
 ### ACT-R 
 
-* [John R. Anderson](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html)
+* **[John R. Anderson](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html)**
 * [Christian Lebiere](https://www.andrew.cmu.edu/user/cl/home.html)
 * [Niels A. Taatgen](http://www.ai.rug.nl/~niels/)
 * [Mike Byrne](http://chil.rice.edu/byrne/)
 
 ### Bayesian
 
-* [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html)，约书亚是 Bayesian 流派重要的人物，师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
+* **[Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html)**，约书亚是 Bayesian 流派重要的人物，师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
 * [Tom Griffiths](http://cocosci.princeton.edu/tom/tom.php)
 * [Noah D. Goodman](https://cocolab.stanford.edu/ndg.html)
 * [Mark Steyvers](http://psiexp.ss.uci.edu/research/)
@@ -63,8 +63,8 @@
 
 ### Connectionist
 
-* [James L. McClelland](https://profiles.stanford.edu/jay-mcclelland?tab=bio)
-* [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)
+* **[James L. McClelland](https://profiles.stanford.edu/jay-mcclelland?tab=bio)**
+* **[Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)**
 * [Michael S. C. Thomas](http://www.bbk.ac.uk/psychology/dnl/?page_id=317)
 * [Terrence Sejnowski](http://cnl.salk.edu/)
 * [Jeffrey L. Elman](https://jeffelman.ucsd.edu/)
@@ -73,14 +73,14 @@
 
 ### Dynamical Systems
 
-* [Gregor Schoner](https://www.ini.rub.de/the_institute/people/gregor-schoner/#about_me)
+* **[Gregor Schoner](https://www.ini.rub.de/the_institute/people/gregor-schoner/#about_me)**
 * [J.A.S. Kelso](http://www.ccs.fau.edu/~kelso/)
 * [Yulia Sandamirskaya](https://scholar.google.com/citations?user=E1jhoakAAAAJ&hl=en)
 * [Estela Bicho](https://scholar.google.com/citations?user=WPnxJB0AAAAJ&hl=en)
 
 ### Declarative/Logic-Based
 
-* [Selmer Bringsjord](http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/selmer-bringsjord)
+* **[Selmer Bringsjord](http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/selmer-bringsjord)**
 * [Ron Sun](https://sites.google.com/site/drronsun/)
 * [Sergei Nirenburg](http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/nirenburg)
 * [Wayne D. Gray](http://homepages.rpi.edu/~grayw/)
@@ -107,10 +107,10 @@
 ## 牛刊与科学新闻
 
 * [Scimago Journal & Country Rank](https://www.scimagojr.com/index.php) ：检索学术影响力
-
 * [Nature的神经科学](https://www.nature.com/subjects/neuroscience)
-
 * [Science](https://www.sciencemag.org/)：Science杂志为主
+* 认知科学趋势 [Trends in Cognitive Science](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences?aims-and-scope=true)：由Cell Press出版的月度同行评审期刊
+* 计算认知科学 [Computational Cognitive Science](https://link.springer.com/journal/40469)：2015~2016，2016年12月停刊
 
 ## 视频
 
@@ -121,9 +121,7 @@
 ## 优秀机构和论文精选集
 
 * [认知建模论文选](http://cseweb.ucsd.edu/~gary/CogSciLiterature.html)：Cottrell总结的，有近100年的该领域的主要论文清单，及他人对论文的评价，含PDF下载。
-
 * [贝叶斯方法的阅读清单](http://cocosci.princeton.edu/tom/bayes.html)：Tom Griffiths总结的贝叶斯方法论文精选集
-
 * [认知科学领域相关研究者](http://cseweb.ucsd.edu/~gary/Advice.html)：按学校分类
 * [概念的概率模型](http://probmods.org/)
 
@@ -131,11 +129,6 @@
 
 * [计算认知科学实验室](https://www.douban.com/group/391831/)：阳志平老师创建的小组，在2012-2013年期间活跃，留下不少好资料。
 * [心智何来？统计、结构和抽象](https://www.douban.com/group/topic/28366354/?author=1)
-
-## 专业刊物
-
-* 认知科学趋势 [Trends in Cognitive Science](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences?aims-and-scope=true)：由Cell Press出版的月度同行评审期刊
-* 计算认知科学 [Computational Cognitive Science](https://link.springer.com/journal/40469)：2015~2016，2016年12月停刊
 
 ### 参考资源
 
