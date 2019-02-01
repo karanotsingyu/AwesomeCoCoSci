@@ -115,6 +115,8 @@
 ## 视频
 
 * [如何成长：统计，结构和抽象](http://videolectures.net/nips2010_tenenbaum_hgm/)：麻省理工的Joshua B. Tenenbaum在2010年第24届神经信息处理系统年会（NIPS）上的讲话 
+* [MIT Quest for Intelligence Launch: Scaling AI the Human Way - YouTube](https://www.youtube.com/watch?reload=9&reload=9&v=K5RNp1SoGOc)：Joshua的演讲
+* [MIT AGI: Building machines that see, learn, and think like people (Josh Tenenbaum) - YouTube](https://www.youtube.com/watch?v=7ROelYvo8f0&t=1s)：Joshua的公开课
 
 ## 优秀机构和论文精选集
 
