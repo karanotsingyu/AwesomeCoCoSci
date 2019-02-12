@@ -132,12 +132,17 @@
 * [计算认知科学实验室](https://www.douban.com/group/391831/)：阳志平老师创建的小组，在2012-2013年期间活跃
 * [心智何来？统计、结构和抽象](https://www.douban.com/group/topic/28366354/?author=1)
 
-### 参考资源
+## 参考资源
 
 * [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
 * [IA003计算认知小组信息清单的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)
 
-### ChangeLog
+## ⚠️注意事项
 
-* 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版
-* 190126 ZAPP 在小耳朵同学基础上增补内容
+禁止未经许可转载此仓库的内容。
+
+## ChangeLog
+
+* 190212 麦云飞 修改细节，增加`## ⚠️注意事项`。
+* 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
+* 190126 ZAPP 在小耳朵同学基础上增补内容。
