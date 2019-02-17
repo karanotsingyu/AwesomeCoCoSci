@@ -105,11 +105,13 @@
 
 ## 入门书单
 
-* [Computational Neuroscience and Cognitive Modelling](https://book.douban.com/subject/25816519/)  接地气的一本书，教你用 Python 直接上手编程。
-* [The Cambridge Handbook of Computational Psychology](https://book.douban.com/subject/3219419/) 计算认知科学领域最重要的一本著作。
+* [Computational Neuroscience and Cognitive Modelling](https://books.google.com/books?hl=en&lr=&id=QjuWAgAAQBAJ&oi=fnd&pg=PP1&dq=Computational+Neuroscience+and+Cognitive+Modelling&ots=xb1Yooud06&sig=jOksz5Qu-cnd9Et0DG1_DDFAsMA)  接地气的一本书，教你用 Python 直接上手编程。
+* [The Cambridge handbook of computational psychology](https://books.google.com/books?hl=en&lr=&id=Qzd8uDG-Xj0C&oi=fnd&pg=PR5&dq=The+Cambridge+Handbook+of+Computational+Psychology&ots=tV_4ie1KI-&sig=qHVB132JJw1MOvP8qOmeD3Tdr5M) 计算认知科学领域最重要的一本著作。
+
+上述是 Google Books 的链接，可免费在线阅读全文。实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。免费（盗版）PDF文件？额不不不别来找我们，自己动手丰衣足食。
+
 * [心智：认知科学导论](https://book.douban.com/subject/10794539/)
 * [算法之美](https://book.douban.com/subject/30155731/)：科普，算法在我们的生活中无处不在。
-
 
 ## 牛刊与科学新闻
 
