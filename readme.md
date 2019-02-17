@@ -98,12 +98,12 @@
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
 
-## 书单
+## 入门书单
 
 * [Computational Neuroscience and Cognitive Modelling](https://book.douban.com/subject/25816519/)  接地气的一本书，教你用 Python 直接上手编程。
 * [The Cambridge Handbook of Computational Psychology](https://book.douban.com/subject/3219419/) 计算认知科学领域最重要的一本著作。
 * [心智：认知科学导论](https://book.douban.com/subject/10794539/)
-* [算法之美](https://book.douban.com/subject/30155731/)
+* [算法之美](https://book.douban.com/subject/30155731/)：科普，算法在我们的生活中无处不在。
 
 
 ## 牛刊与科学新闻
@@ -132,19 +132,23 @@
 * [计算认知科学实验室](https://www.douban.com/group/391831/)：阳志平老师创建的小组，在2012-2013年期间活跃
 * [心智何来？统计、结构和抽象](https://www.douban.com/group/topic/28366354/?author=1)
 
-## 参考资源
+## 参考信息
 
+* [IA003计算认知小组整理的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)：更多信息和链接放在这里，本清单是由此表格整理而来。
 * [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
-* [IA003计算认知小组信息清单的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)
+* [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
+* [关于计算认知科学的随想 - 阳志平的网志](https://www.yangzhiping.com/psy/cogsci.html)
+* [Computational cognition - Wikipedia](https://en.wikipedia.org/wiki/Computational_cognition)
 
 ## ⚠️注意事项
 
-此资源清单是IA003计算认知科学小队（麦云飞、xdp、zapp、小耳朵）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP]。
+此资源清单是IA003计算认知科学小队（麦云飞、xdp、zapp、小耳朵）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
 
-禁止未经许可转载此仓库的内容。
+禁止未经许可转载此仓库的内容。欲转载或引用，请先在此仓库的issue留言或是给maiyunfei2000@gmail.com发邮件联系以征得同意。
 
 ## ChangeLog
 
+* 190217 麦云飞 增补参考信息。
 * 190212 麦云飞 修改细节，增加`## ⚠️注意事项`。
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
 * 190126 ZAPP 在小耳朵同学基础上增补内容。
