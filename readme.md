@@ -105,8 +105,12 @@
 
 ## 入门书单
 
+阳老师推荐的两本著作：
+
 * [Computational Neuroscience and Cognitive Modelling](https://books.google.com/books?hl=en&lr=&id=QjuWAgAAQBAJ&oi=fnd&pg=PP1&dq=Computational+Neuroscience+and+Cognitive+Modelling&ots=xb1Yooud06&sig=jOksz5Qu-cnd9Et0DG1_DDFAsMA)  接地气的一本书，教你用 Python 直接上手编程。
 * [The Cambridge handbook of computational psychology](https://books.google.com/books?hl=en&lr=&id=Qzd8uDG-Xj0C&oi=fnd&pg=PR5&dq=The+Cambridge+Handbook+of+Computational+Psychology&ots=tV_4ie1KI-&sig=qHVB132JJw1MOvP8qOmeD3Tdr5M) 计算认知科学领域最重要的一本著作。
+
+- [Computer Models of Mind: Computational Approaches in Theoretical Psychology - Margaret A. Boden - Google Books](https://books.google.com.co/books?hl=en&lr=&id=ZaODfph_Jm8C&oi=fnd&pg=PR9&dq=Computational+Psychology&ots=qJmXw7KuLi&sig=ypVQegBf04xtyfqPMZFdKczBEM4&redir_esc=y#v=onepage&q=Computational%20Psychology&f=false)
 
 上述是 Google Books 的链接，可免费在线阅读全文。实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。免费（盗版）PDF文件？额不不不别来找我们，自己动手丰衣足食。
 
