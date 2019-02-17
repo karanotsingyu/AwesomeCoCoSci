@@ -139,7 +139,7 @@
 
 ## ⚠️注意事项
 
-此资源清单是IA003计算认知科学小队（麦云飞、xdp、zapp、小耳朵）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP]。
+此资源清单是IA003计算认知科学小队（麦云飞、xdp、zapp、小耳朵）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
 
 禁止未经许可转载此仓库的内容。
 
