@@ -47,11 +47,7 @@
 * 特罗兰研究奖 [Troland Research Awards](https://web.archive.org/web/20130126003831/http:/www.nasonline.org/about-nas/awards/troland-research-awards.html)：美国科学院颁发
 * 大卫·E·鲁梅尔哈特奖 [The David E. Rumelhart Prize](http://www.cognitivesciencesociety.org/rumelhartprize/)：认知科学学会颁发
 
-<<<<<<< HEAD
-## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)值得追踪的机构
-=======
-## 机构
->>>>>>> 9d450d53909f820ce3322a362ced01e57d9dd0e0
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)机构
 
 * 麻省理工学院脑与认知科学系：[计算认知科学小组](http://cocosci.mit.edu/)
 * 纽约大学：[计算与认知实验室](http://gureckislab.org/)
@@ -78,11 +74,7 @@
 * 加利福尼亚大学圣地亚哥分校：[科特雷尔实验室](http://cseweb.ucsd.edu/groups/guru/index.html)
 * [DeepMind](https://deepmind.com/)：位于英国伦敦的人工智能企业，大名鼎鼎的AlphaGo的主人，2014年被谷歌收购。
 
-<<<<<<< HEAD
-## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)几大流派的主要人物
-=======
-## 主要流派和学者
->>>>>>> 9d450d53909f820ce3322a362ced01e57d9dd0e0
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)主要流派和学者
 
 字体加粗意味着人物是该流派的领头人物。
 
