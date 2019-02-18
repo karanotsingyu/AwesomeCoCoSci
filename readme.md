@@ -195,8 +195,8 @@
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)常用工具或信息源
 
 - [Google Scholar](https://scholar.google.com/)
-- [Sci-Hub](https://sci-hub.tw/)：不予解释。
-- [libgen](http://libgen.io/)：也不解释。这两个若不懂的话，可辅以搜索引擎自行摸索。
+- [Sci-Hub](https://sci-hub.tw/)：论文盗版PDF资源库。
+- [libgen](http://libgen.io/)：书籍盗版PDF资源库。
 - [Acemap](https://www.acemap.info/)：各种知识图谱，例如引文关系。近年建立的一个新网站，许多功能和内容还有待完善。信息沉淀略少，只有涉及计算机领域的数据才会比较全。
 - [Neurotree](https://neurotree.org/neurotree/)：检索学者师承关系。例如约书亚(Joshua)的师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
 
