@@ -171,7 +171,7 @@
 * [MIT Quest for Intelligence Launch: Scaling AI the Human Way - YouTube](https://www.youtube.com/watch?reload=9&reload=9&v=K5RNp1SoGOc)：Joshua的演讲
 * [MIT AGI: Building machines that see, learn, and think like people (Josh Tenenbaum) - YouTube](https://www.youtube.com/watch?v=7ROelYvo8f0&t=1s)：Joshua的公开课
 
-## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)优秀机构和论文精选集
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)论文选集和其它汇总类信息
 
 * [认知建模论文选](http://cseweb.ucsd.edu/~gary/CogSciLiterature.html)：Cottrell总结的，有近100年的该领域的主要论文清单，及他人对论文的评价，含PDF下载。
 * [贝叶斯方法的阅读清单](http://cocosci.princeton.edu/tom/bayes.html)：Tom Griffiths总结的贝叶斯方法论文精选集
