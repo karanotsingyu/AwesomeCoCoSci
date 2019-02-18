@@ -15,7 +15,8 @@
 	- [Others](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#others)
 - [入门书单](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%85%A5%E9%97%A8%E4%B9%A6%E5%8D%95)
 - [牛刊与科学新闻](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E7%89%9B%E5%88%8A%E4%B8%8E%E7%A7%91%E5%AD%A6%E6%96%B0%E9%97%BB)
-- [论文选集和其它汇总类信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E4%BC%98%E7%A7%80%E6%9C%BA%E6%9E%84%E5%92%8C%E8%AE%BA%E6%96%87%E7%B2%BE%E9%80%89%E9%9B%86)
+- [视频](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%A7%86%E9%A2%91)
+- [论文选集和其它汇总类信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%A7%86%E9%A2%91)
 - [豆瓣](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%B1%86%E7%93%A3)
 - [参考信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%8F%82%E8%80%83%E4%BF%A1%E6%81%AF)
 - [常用工具或信息源](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%88%96%E4%BF%A1%E6%81%AF%E6%BA%90)
@@ -189,6 +190,7 @@
 * [关于计算认知科学的随想 - 阳志平的网志](https://www.yangzhiping.com/psy/cogsci.html)
 * [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
 * [Computational cognition - Wikipedia](https://en.wikipedia.org/wiki/Computational_cognition)
+* [The Cambridge handbook of computational psychology](https://books.google.com/books?hl=en&lr=&id=Qzd8uDG-Xj0C&oi=fnd&pg=PR5&dq=The+Cambridge+Handbook+of+Computational+Psychology&ots=tV_4ie1KI-&sig=qHVB132JJw1MOvP8qOmeD3Tdr5M)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)常用工具或信息源
 
