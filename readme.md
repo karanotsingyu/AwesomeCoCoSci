@@ -26,7 +26,7 @@
 * 特罗兰研究奖 [Troland Research Awards](https://web.archive.org/web/20130126003831/http:/www.nasonline.org/about-nas/awards/troland-research-awards.html)：美国科学院颁发
 * 大卫·E·鲁梅尔哈特奖 [The David E. Rumelhart Prize](http://www.cognitivesciencesociety.org/rumelhartprize/)：认知科学学会颁发
 
-## 值得追踪的实验室
+## 值得追踪的机构
 
 * 麻省理工学院脑与认知科学系：[计算认知科学小组](http://cocosci.mit.edu/)
 * 纽约大学：[计算与认知实验室](http://gureckislab.org/)
@@ -51,10 +51,13 @@
 * 西北大学认知系统系电气工程与计算机科学系：[定性推理组](http://www.qrg.northwestern.edu/ideas/ideas_index.html)
 * 宾夕法尼亚大学计算机与信息科学系：[认知计算组](http://cogcomp.org/)
 * 加利福尼亚大学圣地亚哥分校：[科特雷尔实验室](http://cseweb.ucsd.edu/groups/guru/index.html)
+* [DeepMind](https://deepmind.com/)：位于英国伦敦的人工智能企业，大名鼎鼎的AlphaGo的主人，2014年被谷歌收购。
 
 ## 几大流派的主要人物
 
-每个流派前面一或两个加粗的人物是这个流派的领头人物。
+字体加粗意味着人物是该流派的领头人物。
+
+为方便，重复贴上各流派代表机构的链接。
 
 ### ACT-R 
 
@@ -62,6 +65,8 @@
 * [Christian Lebiere](https://www.andrew.cmu.edu/user/cl/home.html)
 * [Niels A. Taatgen](http://www.ai.rug.nl/~niels/)
 * [Mike Byrne](http://chil.rice.edu/byrne/)
+
+* 卡内基梅隆大学心理学系：[ACT-R 研究小组](http://act-r.psy.cmu.edu/)
 
 ### Bayesian
 
@@ -72,6 +77,8 @@
 * [Charles Kemp](http://charleskemp.com/)
 * [Jacob Feldman](https://ruccs.rutgers.edu/jacob)
 
+* 麻省理工学院脑与认知科学系：[计算认知科学小组](http://cocosci.mit.edu/)
+
 ### Connectionist
 
 * **[James L. McClelland](https://profiles.stanford.edu/jay-mcclelland?tab=bio)**
@@ -80,14 +87,19 @@
 * [Terrence Sejnowski](http://cnl.salk.edu/)
 * [Jeffrey L. Elman](https://jeffelman.ucsd.edu/)
 * [Randall O'Reilly](http://psych.colorado.edu/~oreilly/)
-* [David C. Plaut](https://scholar.google.com/citations?user=Rr847PIAAAAJ&hl=en)
+* [David C. Plaut](http://www.cnbc.cmu.edu/~plaut/)
+
+* 普林斯顿大学心理学系：[计算认知科学实验室](http://cocosci.princeton.edu/index.php)
+* 多伦多大学：[计算机科学系](http://web.cs.toronto.edu/)
 
 ### Dynamical Systems
 
 * **[Gregor Schoner](https://www.ini.rub.de/the_institute/people/gregor-schoner/#about_me)**
 * [J.A.S. Kelso](http://www.ccs.fau.edu/~kelso/)
-* [Yulia Sandamirskaya](https://scholar.google.com/citations?user=E1jhoakAAAAJ&hl=en)
-* [Estela Bicho](https://scholar.google.com/citations?user=WPnxJB0AAAAJ&hl=en)
+* [Yulia Sandamirskaya](http://sandamirskaya.eu/)
+* [Estela Bicho](http://dei-s2.dei.uminho.pt/pessoas/estela/)
+
+* 波鸿鲁尔大学：[神经信息学研究所](https://www.ini.rub.de/news/for_2812_-_constructing_scenarios_of_the_past_a_new_framework_in_episodic_memory/)
 
 ### Declarative/Logic-Based
 
@@ -96,12 +108,14 @@
 * [Sergei Nirenburg](http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/nirenburg)
 * [Wayne D. Gray](http://homepages.rpi.edu/~grayw/)
 
+* 伦斯勒理工学院认知科学系：[计算认知建模方向](http://www.cogsci.rpi.edu/pl/research-s26#RPI_Cognitive_Science_Research_in_Computational_Cognitive_Modeling)
+
 ### Others
 
 * [Douglas Hofstadter](https://www.sice.indiana.edu/all-people/profile.html?profile_id=229)：侯世达老师，《哥德尔、埃舍尔、巴赫--集异璧之大成》(*GEB*)、《我是个怪圈》(*I am a strange loop*)作者，非主流的认知科学家，兜兜转转从人工智能回到计算认知科学阵营。
 * [Jonathan D. Cohen](https://webapps.pni.princeton.edu/ncc/JDC/JDC/Home_Page.html)
 * [Olaf Sporns](http://www.indiana.edu/~cortex/CV_Olaf_Sporns.pdf)
-* [Tom Mitchell]()
+* [Tom Mitchell](https://www.cs.cmu.edu/~tom/)
 * [Richard S. Sutton](http://www.incompleteideas.net/)
 * [Ken Norman](http://compmem.princeton.edu/lab-people/)
 * [Paul Thagard](https://paulthagard.com/)
@@ -149,7 +163,7 @@
 
 ## 参考信息
 
-* [IA003计算认知小组整理的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)：本清单是由此表格整理而来。这个表格相较此清单多出的主要内容是学者的基本信息和谷歌学术主页。
+* [IA003计算认知小组整理的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)：本清单是由此表格整理而来。这个表格相较此清单多出的主要内容是学者的基本信息和谷歌学术主页，如果要摸索更多信息，这个表格或许会更有用一些。
 * [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
 * [关于计算认知科学的随想 - 阳志平的网志](https://www.yangzhiping.com/psy/cogsci.html)
 * [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
@@ -160,18 +174,18 @@
 - [Google Scholar](https://scholar.google.com/)
 - [Sci-Hub](https://sci-hub.tw/)：不予解释。
 - [libgen](http://libgen.io/)：也不解释。这两个若不懂的话，可辅以搜索引擎自行摸索。
-- [Acemap](https://www.acemap.info/)：各种知识图谱，例如引文关系。去年（2018）的一个新网站，许多功能和内容还有待完善。信息沉淀略少，只有涉及计算机领域的数据会比较全。
+- [Acemap](https://www.acemap.info/)：各种知识图谱，例如引文关系。近年建立的一个新网站，许多功能和内容还有待完善。信息沉淀略少，只有涉及计算机领域的数据才会比较全。
 - [Neurotree](https://neurotree.org/neurotree/)：检索学者师承关系。例如约书亚(Joshua)的师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
 
-## ⚠️注意事项
+## ⚠️声明
 
-此资源清单是IA003计算认知科学小队（麦云飞、xdp、zapp、小耳朵）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
+此资源清单是IA003计算认知科学小队（麦云飞、王婧靖、刘旭、张美凤）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
 
 禁止未经许可转载此仓库的内容。欲转载或引用，请先在此仓库的issue留言或是给maiyunfei2000@gmail.com发邮件联系以征得同意。
 
 ## ChangeLog
 
-* 190218 麦云飞 增补或完善简介、参考信息、注意事项、常用工具或信息源，并作细节改动。
-* 190212 麦云飞 修改细节，增加`## ⚠️注意事项`。
+* 190218 麦云飞 增补或完善简介、参考信息、声明、常用工具或信息源，并作细节改动。
+* 190212 麦云飞 修改细节，增加`## ⚠️声明`。
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
 * 190126 ZAPP 在小耳朵同学基础上增补内容。
