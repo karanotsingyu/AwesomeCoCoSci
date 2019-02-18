@@ -1,6 +1,8 @@
 # 计算认知科学资源索引
 
-说明：认知科学未来将走向何方？编程、数学技能探索到怎样的人类心智？当下算法建模人类心智有哪些主要的流派？我们该前往何处的源头？
+## 简介
+
+认知科学未来将走向何方？编程、数学技能探索到怎样的人类心智？当下算法建模人类心智有哪些主要的流派？我们该前往何处的源头？
 
 > 如果你是心理科学专业相关从业者，我强烈建议关注计算认知科学。未来十年，心理科学的下个皇冠在这里。—— 阳志平
 
@@ -52,6 +54,8 @@
 
 ## 几大流派的主要人物
 
+每个流派前面一或两个加粗的人物是这个流派的领头人物。
+
 ### ACT-R 
 
 * **[John R. Anderson](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html)**
@@ -61,7 +65,7 @@
 
 ### Bayesian
 
-* **[Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html)**，约书亚是 Bayesian 流派重要的人物，师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
+* **[Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html)**
 * [Tom Griffiths](http://cocosci.princeton.edu/tom/tom.php)
 * [Noah D. Goodman](https://cocolab.stanford.edu/ndg.html)
 * [Mark Steyvers](http://psiexp.ss.uci.edu/research/)
@@ -94,12 +98,12 @@
 
 ### Others
 
+* [Douglas Hofstadter](https://www.sice.indiana.edu/all-people/profile.html?profile_id=229)：侯世达老师，《哥德尔、埃舍尔、巴赫--集异璧之大成》(*GEB*)、《我是个怪圈》(*I am a strange loop*)作者，非主流的认知科学家，兜兜转转从人工智能回到计算认知科学阵营。
 * [Jonathan D. Cohen](https://webapps.pni.princeton.edu/ncc/JDC/JDC/Home_Page.html)
 * [Olaf Sporns](http://www.indiana.edu/~cortex/CV_Olaf_Sporns.pdf)
 * [Tom Mitchell]()
 * [Richard S. Sutton](http://www.incompleteideas.net/)
 * [Ken Norman](http://compmem.princeton.edu/lab-people/)
-* [Douglas Hofstadter](https://www.sice.indiana.edu/all-people/profile.html?profile_id=229)，候世达同学，「哥德尔、埃舍尔、巴赫--集异璧之大成」作者，兜兜转转加入认知科学阵营。
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
 
@@ -112,10 +116,10 @@
 
 - [Computer Models of Mind: Computational Approaches in Theoretical Psychology - Margaret A. Boden - Google Books](https://books.google.com.co/books?hl=en&lr=&id=ZaODfph_Jm8C&oi=fnd&pg=PR9&dq=Computational+Psychology&ots=qJmXw7KuLi&sig=ypVQegBf04xtyfqPMZFdKczBEM4&redir_esc=y#v=onepage&q=Computational%20Psychology&f=false)
 
-上述是 Google Books 的链接，可免费在线阅读全文。实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。免费（盗版）PDF文件？额不不不别来找我们，自己动手丰衣足食。
-
 * [心智：认知科学导论](https://book.douban.com/subject/10794539/)
-* [算法之美](https://book.douban.com/subject/30155731/)：科普，算法在我们的生活中无处不在。
+* [算法之美](https://book.douban.com/subject/30155731/)([Algorithms to Live By: The Computer Science of Human Decisions](https://books.google.com/books?hl=en&lr=&id=yvaLCgAAQBAJ&oi=fnd&pg=PR1&ots=rJ2_aVcx50&sig=o3Ip26hcwql51hJFGA1PDroLJn4))：科普，算法在我们的生活中无处不在。
+
+上述书籍都可在豆瓣看到。若是英文书籍，则附上的是 Google Books 的链接，可免费在线阅读全文。英文实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。免费（盗版）PDF文件？额不不不别来找我们，自己动手丰衣足食。
 
 ## 牛刊与科学新闻
 
@@ -145,11 +149,19 @@
 
 ## 参考信息
 
-* [IA003计算认知小组整理的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)：更多信息和链接放在这里，本清单是由此表格整理而来。
+* [IA003计算认知小组整理的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)：本清单是由此表格整理而来。这个表格相较此清单多出的主要内容是学者的基本信息和谷歌学术主页。
 * [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
-* [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
 * [关于计算认知科学的随想 - 阳志平的网志](https://www.yangzhiping.com/psy/cogsci.html)
+* [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
 * [Computational cognition - Wikipedia](https://en.wikipedia.org/wiki/Computational_cognition)
+
+## 常用工具或信息源
+
+- [Google Scholar](https://scholar.google.com/)
+- [Sci-Hub](https://sci-hub.tw/)：不予解释。
+- [libgen](http://libgen.io/)：也不解释。这两个若不懂的话，可辅以搜索引擎自行摸索。
+- [Acemap](https://www.acemap.info/)：各种知识图谱，例如引文关系。去年（2018）的一个新网站，许多功能和内容还有待完善。信息沉淀略少，只有涉及计算机领域的数据会比较全。
+- [Neurotree](https://neurotree.org/neurotree/)：检索学者师承关系。例如约书亚(Joshua)的师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
 
 ## ⚠️注意事项
 
@@ -159,7 +171,7 @@
 
 ## ChangeLog
 
-* 190217 麦云飞 增补参考信息。
+* 190218 麦云飞 增补或完善简介、参考信息、注意事项、常用工具或信息源，并作细节改动。
 * 190212 麦云飞 修改细节，增加`## ⚠️注意事项`。
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
 * 190126 ZAPP 在小耳朵同学基础上增补内容。
