@@ -6,7 +6,7 @@
 
 > 如果你是心理科学专业相关从业者，我强烈建议关注计算认知科学。未来十年，心理科学的下个皇冠在这里。—— 阳志平
 
-以下为IA003计算认知科学小组的一些关于计算认知科学的资源。
+以下为IA003计算认知科学小组收集到的一些此主题的值得追踪的信息源。
 
 实际上这个资源清单还不完善。欢迎pull request或是在issue拍砖，鞭策我们增补/修改信息。
 
@@ -26,7 +26,7 @@
 * 特罗兰研究奖 [Troland Research Awards](https://web.archive.org/web/20130126003831/http:/www.nasonline.org/about-nas/awards/troland-research-awards.html)：美国科学院颁发
 * 大卫·E·鲁梅尔哈特奖 [The David E. Rumelhart Prize](http://www.cognitivesciencesociety.org/rumelhartprize/)：认知科学学会颁发
 
-## 值得追踪的机构
+## 机构
 
 * 麻省理工学院脑与认知科学系：[计算认知科学小组](http://cocosci.mit.edu/)
 * 纽约大学：[计算与认知实验室](http://gureckislab.org/)
@@ -53,7 +53,7 @@
 * 加利福尼亚大学圣地亚哥分校：[科特雷尔实验室](http://cseweb.ucsd.edu/groups/guru/index.html)
 * [DeepMind](https://deepmind.com/)：位于英国伦敦的人工智能企业，大名鼎鼎的AlphaGo的主人，2014年被谷歌收购。
 
-## 几大流派的主要人物
+## 主要流派和学者
 
 字体加粗意味着人物是该流派的领头人物。
 
