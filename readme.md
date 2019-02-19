@@ -142,6 +142,7 @@
 * [Ken Norman](http://compmem.princeton.edu/lab-people/)
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
+- [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)入门书单
 
