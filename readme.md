@@ -54,6 +54,7 @@
 * 纽约大学：[计算与认知实验室](http://gureckislab.org/)
 * 普林斯顿大学心理学系：[计算认知科学实验室](http://cocosci.princeton.edu/index.php)
 * 斯坦福大学心理学系：[计算机与认知实验室](https://cocolab.stanford.edu/)
+* 斯坦福大学 Wu Tsai 神经科学研究所：[Center for Mind, Brain, Computation and Technology | Wu Tsai Neurosciences Institute](https://neuroscience.stanford.edu/mbct/home)
 * 印第安纳大学心理与脑科学系：[计算认知神经科学实验室](http://www.indiana.edu/~cortex/index.html)
 * 弗林德斯大学：[计算认知与行为科学小组](http://www.flinders.edu.au/science_engineering/csem/research/programs/cabs/cabs_home.cfm)
 * 新南威尔士大学心理学系：[计算认知科学小组](https://compcogscisydney.org/)
@@ -113,7 +114,8 @@
 * [Randall O'Reilly](http://psych.colorado.edu/~oreilly/)
 * [David C. Plaut](http://www.cnbc.cmu.edu/~plaut/)
 
-* 普林斯顿大学心理学系：[计算认知科学实验室](http://cocosci.princeton.edu/index.php)
+* 斯坦福大学心理学系：[计算机与认知实验室](https://cocolab.stanford.edu/)
+* 斯坦福大学 Wu Tsai 神经科学研究所：[Center for Mind, Brain, Computation and Technology](https://neuroscience.stanford.edu/mbct/home)
 * 多伦多大学：[计算机科学系](http://web.cs.toronto.edu/)
 
 ### [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)Dynamical Systems
@@ -211,6 +213,7 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ChangeLog
 
+* 190404 麦云飞 勘误。增补斯坦福大学 Wu Tsai 研究所。
 * 190218 麦云飞 建立目录，增补或完善简介、参考信息、声明、常用工具或信息源，并作细节改动。
 * 190212 麦云飞 修改细节，增加`## ⚠️声明`。
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
