@@ -178,14 +178,14 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)论文选集和其它汇总类信息
 
-* [认知建模论文选](http://cseweb.ucsd.edu/~gary/CogSciLiterature.html)：Cottrell总结的，有近100年的该领域的主要论文清单，及他人对论文的评价，含PDF下载。
-* [贝叶斯方法的阅读清单](http://cocosci.princeton.edu/tom/bayes.html)：Tom Griffiths总结的贝叶斯方法论文精选集
+* [认知建模论文选](http://cseweb.ucsd.edu/~gary/CogSciLiterature.html)：Cottrell总结的，该领域的主要论文清单，及他人对论文的评价，含PDF下载。
+* [贝叶斯方法的阅读清单](http://cocosci.princeton.edu/tom/bayes.html)：Tom Griffiths总结的贝叶斯方法论文精选集。
 * [认知科学领域相关研究者](http://cseweb.ucsd.edu/~gary/Advice.html)：按学校分类
 * [认知的概率模型](http://probmods.org/)：**Probabilistic Models of Cognition, by Noah D. Goodman, Joshua B. Tenenbaum & The ProbMods Contributors.** This book explores the probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models. We examine how a broad range of empirical phenomena, including intuitive physics, concept learning, causal reasoning, social cognition, and language understanding, can be modeled using probabilistic programs.
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)豆瓣
 
-* [计算认知科学实验室](https://www.douban.com/group/391831/)：阳志平老师创建的小组，在2012-2013年期间活跃
+* [计算认知科学实验室](https://www.douban.com/group/391831/)：阳志平老师创建的小组，在2012-2013年期间活跃。
 * [心智何来？统计、结构和抽象](https://www.douban.com/group/topic/28366354/?author=1)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)参考信息
