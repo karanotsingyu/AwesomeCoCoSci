@@ -147,6 +147,7 @@
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
 - [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
+- [陈琦](http://psy.scnu.edu.cn/a/20150624/4.html)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)入门书单
 
@@ -213,6 +214,7 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ChangeLog
 
+* 190415 麦云飞 增补人物。
 * 190404 麦云飞 勘误。增补斯坦福大学 Wu Tsai 研究所。
 * 190218 麦云飞 建立目录，增补或完善简介、参考信息、声明、常用工具或信息源，并作细节改动。
 * 190212 麦云飞 修改细节，增加`## ⚠️声明`。
