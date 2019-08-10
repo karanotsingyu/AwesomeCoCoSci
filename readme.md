@@ -148,8 +148,9 @@
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
 - [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
 - [陈琦](http://psy.scnu.edu.cn/a/20150624/4.html)
+- 高涛
 
-## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)入门书单
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)入门读物
 
 阳老师推荐的两本著作：
 
@@ -162,6 +163,10 @@
 * [算法之美](https://book.douban.com/subject/30155731/)([Algorithms to Live By: The Computer Science of Human Decisions](https://books.google.com/books?hl=en&lr=&id=yvaLCgAAQBAJ&oi=fnd&pg=PR1&ots=rJ2_aVcx50&sig=o3Ip26hcwql51hJFGA1PDroLJn4))：科普，算法在我们的生活中无处不在。
 
 上述书籍都可在豆瓣看到。若是英文书籍，则附上的是 Google Books 的链接，可免费在线阅读全文。英文实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。免费（盗版）PDF文件？额……自己动手丰衣足食。
+
+以下是论文（有待建立）
+
+- 周吉帆;徐昊骙;唐宁;史博皓;赵阳;高涛;沈模卫; (2016). “强认知”的心理学研究:来自AlphaGo的启示. 应用心理学, (01 vo 22), 3–11.
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)牛刊与科学新闻
 
