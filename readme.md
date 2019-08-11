@@ -113,6 +113,7 @@
 * [Terrence Sejnowski](http://cnl.salk.edu/)
 * [Jeffrey L. Elman](https://jeffelman.ucsd.edu/)
 * [Randall O'Reilly](http://psych.colorado.edu/~oreilly/)
+* [Michael J. Frank](http://ski.clps.brown.edu/)
 * [David C. Plaut](http://www.cnbc.cmu.edu/~plaut/)
 
 * 斯坦福大学心理学系：[计算机与认知实验室](https://cocolab.stanford.edu/)
@@ -147,7 +148,6 @@
 * [Ken Norman](http://compmem.princeton.edu/lab-people/)
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
-- [Michael J. Frank](http://ski.clps.brown.edu/)
 - [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
 - [陈琦](http://psy.scnu.edu.cn/a/20150624/4.html)
 - 高涛
