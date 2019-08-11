@@ -4,6 +4,7 @@
 
 - [简介](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E7%AE%80%E4%BB%8B)
 - [协会](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%8D%8F%E4%BC%9A)
+- [会议]
 - [奖项](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%A5%96%E9%A1%B9)
 - [机构](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E6%9C%BA%E6%9E%84)
 - [主要流派和学者](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E4%B8%BB%E8%A6%81%E6%B5%81%E6%B4%BE%E5%92%8C%E5%AD%A6%E8%80%85)
@@ -136,7 +137,7 @@
 
 * 伦斯勒理工学院认知科学系：[计算认知建模方向](http://www.cogsci.rpi.edu/pl/research-s26#RPI_Cognitive_Science_Research_in_Computational_Cognitive_Modeling)
 
-### [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)Others
+### [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)Others & Unclassed
 
 * [Douglas Hofstadter](https://www.sice.indiana.edu/all-people/profile.html?profile_id=229)：侯世达老师，《哥德尔、埃舍尔、巴赫--集异璧之大成》(*GEB*)、《我是个怪圈》(*I am a strange loop*)作者，非主流的认知科学家，兜兜转转从人工智能回到计算认知科学阵营。
 * [Jonathan D. Cohen](https://webapps.pni.princeton.edu/ncc/JDC/JDC/Home_Page.html)
@@ -146,6 +147,7 @@
 * [Ken Norman](http://compmem.princeton.edu/lab-people/)
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
+- [Michael J. Frank](http://ski.clps.brown.edu/)
 - [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
 - [陈琦](http://psy.scnu.edu.cn/a/20150624/4.html)
 - 高涛
