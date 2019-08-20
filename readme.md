@@ -215,9 +215,11 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)⚠️声明
 
-此资源清单是IA003计算认知科学小队（麦云飞、王婧靖、刘旭、张美凤）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
+此资源清单是IA003计算认知科学小队（麦云飞、xdp、ZAPP、小耳朵）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
 
-禁止未经许可转载此仓库的内容。欲转载或引用，请先在此仓库的issue留言或是给maiyunfei2000@gmail.com发邮件联系以征得同意。
+贡献信息：清单的具体信息由小队全体成员搜集；然后部分主要内容由麦云飞整理为表格，并由xdp和ZAPP增补；最后由小耳朵和ZAPP制作这一份清单并由麦云飞来持续维护。
+
+禁止未经许可转载此仓库的内容。欲转载或引用，请先在此仓库的issue留言艾特@maiyunfei2000或是给maiyunfei2000@gmail.com发邮件联系以征得同意。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ChangeLog
 
