@@ -148,9 +148,18 @@
 * [Ken Norman](http://compmem.princeton.edu/lab-people/)
 * [Paul Thagard](https://paulthagard.com/)
 * [Garrison W. Cottrell](http://cseweb.ucsd.edu/~gary/)
-- [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
+
+### [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)Chinese Scholars
+
 - [陈琦](http://psy.scnu.edu.cn/a/20150624/4.html)
+- [戴俊毅](https://person.zju.edu.cn/junyidai)
 - 高涛
+- [沈模卫](https://person.zju.edu.cn/moweishen#751665)
+- [王凌](http://psy.scnu.edu.cn/a/20150624/25.html)
+- [魏坤琳](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/wkl/index.htm)
+- [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
+- [张航](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/zh/index.htm)
+- [周吉帆](https://person.zju.edu.cn/jifanzhou)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)入门读物
 
@@ -223,6 +232,7 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ChangeLog
 
+* 190927 麦云飞 增补一些中国学者。  
 * 190415 麦云飞 增补人物。
 * 190404 麦云飞 勘误。增补斯坦福大学 Wu Tsai 研究所。
 * 190218 麦云飞 建立目录，增补或完善简介、参考信息、声明、常用工具或信息源，并作细节改动。
