@@ -76,6 +76,7 @@
 * 宾夕法尼亚大学计算机与信息科学系：[认知计算组](http://cogcomp.org/)
 * 加利福尼亚大学圣地亚哥分校：[科特雷尔实验室](http://cseweb.ucsd.edu/groups/guru/index.html)
 * [DeepMind](https://deepmind.com/)：位于英国伦敦的人工智能企业，大名鼎鼎的AlphaGo的主人，2014年被谷歌收购。
+* Department of Experimental Psychology at the University of Oxford：[Human Information Processing lab](https://humaninformationprocessing.com/)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)主要流派和学者
 
