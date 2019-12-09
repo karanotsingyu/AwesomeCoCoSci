@@ -55,7 +55,7 @@
 * 纽约大学：[计算与认知实验室](http://gureckislab.org/)
 * 普林斯顿大学心理学系：[计算认知科学实验室](http://cocosci.princeton.edu/index.php)
 * 斯坦福大学心理学系：[计算机与认知实验室](https://cocolab.stanford.edu/)
-* 斯坦福大学 Wu Tsai 神经科学研究所：[Center for Mind, Brain, Computation and Technology | Wu Tsai Neurosciences Institute](https://neuroscience.stanford.edu/mbct/home)
+* 斯坦福大学 Wu Tsai 神经科学研究所：[心智-大脑-计算技术中心](https://neuroscience.stanford.edu/mbct/home)
 * 印第安纳大学心理与脑科学系：[计算认知神经科学实验室](http://www.indiana.edu/~cortex/index.html)
 * 弗林德斯大学：[计算认知与行为科学小组](http://www.flinders.edu.au/science_engineering/csem/research/programs/cabs/cabs_home.cfm)
 * 新南威尔士大学心理学系：[计算认知科学小组](https://compcogscisydney.org/)
