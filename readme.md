@@ -108,7 +108,7 @@
 
 ### [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)Connectionist
 
-* **[James L. McClelland](https://profiles.stanford.edu/jay-mcclelland?tab=bio)**
+* **James L. McClelland** [[Profile]](https://profiles.stanford.edu/jay-mcclelland?tab=bio) [[Homepage]](https://web.stanford.edu/~jlmcc/)
 * **[Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)**
 * [Michael S. C. Thomas](http://www.bbk.ac.uk/psychology/dnl/?page_id=317)
 * [Terrence Sejnowski](http://cnl.salk.edu/)
