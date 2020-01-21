@@ -209,7 +209,7 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)参考信息
 
-* [IA003计算认知小组整理的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)：本清单是由此表格整理而来。这个表格相较此清单多出的主要内容是学者的基本信息和谷歌学术主页，如果要摸索更多信息，这个表格或许会更有用一些。
+* [IA003计算认知小组整理的谷歌表格](https://docs.google.com/spreadsheets/d/16KGHR6A6p53P2mI5wxl-pNAUHyIcl1hbIAJpkoGcNHg/edit?usp=sharing)：本清单的原始版本是由此表格整理而来。这个表格相较此清单多出的主要内容是学者的基本信息和谷歌学术主页，如果要摸索更多信息，这个表格或许会更有用一些。
 * [认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)
 * [关于计算认知科学的随想 - 阳志平的网志](https://www.yangzhiping.com/psy/cogsci.html)
 * [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
@@ -226,7 +226,7 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)⚠️声明
 
-此资源清单是IA003计算认知科学小队（麦云飞(@MaiYunfei2000)、xdp(@xdpwjj)、ZAPP(@zapp926)、小耳朵）的劳动成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
+此资源清单是IA003计算认知科学小队（麦云飞(@MaiYunfei2000)、xdp(@xdpwjj)、ZAPP(@zapp926)、小耳朵）的成果，诞生背景是[开智学堂信息分析三期课程](https://mp.weixin.qq.com/s/72dckH947Ed2OLqR44XNgA)的结业BP。
 
 贡献信息：清单的具体信息由小队全体成员搜集；然后部分主要内容由麦云飞整理为表格，并由xdp和ZAPP增补；最后由小耳朵和ZAPP制作这一份清单并由麦云飞来持续维护。
 
