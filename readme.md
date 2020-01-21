@@ -156,6 +156,7 @@
 - [戴俊毅](https://person.zju.edu.cn/junyidai)
 - 高涛
 - [沈模卫](https://person.zju.edu.cn/moweishen#751665)
+- 史忠植
 - [王凌](http://psy.scnu.edu.cn/a/20150624/25.html)
 - [魏坤琳](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/wkl/index.htm)
 - [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
