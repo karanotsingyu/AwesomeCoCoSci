@@ -189,8 +189,8 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)课程
 
-* [NeuroMatch Academy Summer Course]: Neuromatch Academy 的计算神经科学暑校。内含完整的课件，包括视频（Youtube/Bilibili）、幻灯和可在 Colab 中操作的 Jupyter Notebook 。优质入门资料，助你用 Python 建立计算模拟的直觉。这里的内容更导向神经科学，然而计算认知科学和计算神经科学有不小的重叠。
-* [[Computational Cognitive Science | Brain and Cognitive Sciences | MIT OpenCourseWare](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/index.htm)]:  Josh Tenenbaum 2004年计算认知科学课程的课件。
+* [NeuroMatch Academy Summer Course](https://github.com/NeuromatchAcademy/course-content): Neuromatch Academy 计算神经科学暑校。内含完整的课件，包括视频（Youtube/Bilibili）、幻灯和可在 Colab 中操作的 Jupyter Notebook 。优质入门资料，助你用 Python 建立计算模拟的直觉。这里的内容更导向神经科学，然而计算认知科学和计算神经科学有不小的重叠。或许光是课程大纲就能帮小白建立领域最小全局的印象。
+* [Computational Cognitive Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/index.htm):  Josh Tenenbaum 2004年计算认知科学课程的课件。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)牛刊与科学新闻
 
