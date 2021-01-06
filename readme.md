@@ -16,6 +16,7 @@
 	- [Others](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#others)
 - [入门书单](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%85%A5%E9%97%A8%E4%B9%A6%E5%8D%95)
 - [牛刊与科学新闻](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E7%89%9B%E5%88%8A%E4%B8%8E%E7%A7%91%E5%AD%A6%E6%96%B0%E9%97%BB)
+- [课程](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#课程)
 - [视频](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%A7%86%E9%A2%91)
 - [论文选集和其它汇总类信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%A7%86%E9%A2%91)
 - [豆瓣](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%B1%86%E7%93%A3)
@@ -37,6 +38,7 @@
 
 - 几乎所有网站都需要科学上网（或者说，使用梯子）。
 - 这些信息总会有时效性。个别链接，例如《关于计算认知科学的随想》里的一些链接，已经挂掉。它们也许只是随机构或主人网站转移了一个地方，又或者真的是挂了。可以在谷歌上用关键词搜索摸索一下，或是去相应机构的网站四处走走。我们整理的这份清单未来或许也会有链接挂掉。
+- 下面的流派划分只是一个粗略而主观划分，源自 Ron Sun 的《The Cambridge Handbook of Computational Psychology》。这里更偏「理论」或「科学领域」而非「研究方法」（虽然前后两者很多时候是重叠的）。在实际研究中，一位计算认知科学/计算神经科学家通常会运用多种数学模型来做计算建模研究。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)协会
 
@@ -50,6 +52,8 @@
 * 大卫·E·鲁梅尔哈特奖 [The David E. Rumelhart Prize](http://www.cognitivesciencesociety.org/rumelhartprize/)：认知科学学会颁发
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)机构
+
+跟踪它们的研究——这些地方往往会附上各种索引。
 
 * 麻省理工学院脑与认知科学系：[计算认知科学小组](http://cocosci.mit.edu/)
 * 纽约大学：[计算与认知实验室](http://gureckislab.org/)
@@ -80,11 +84,11 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)主要流派和学者
 
-字体加粗意味着人物是该流派的领头人物。
+跟踪ta们的研究——这些地方往往会附上各种索引。
 
-为方便，重复贴上各流派代表机构的链接。
-
-“IA003计算认知小组整理的谷歌表格”里还整理了这些学者的谷歌学术页面链接，以及他们在谷歌学术档案上使用的关键词。参见“[参考信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%8F%82%E8%80%83%E4%BF%A1%E6%81%AF)”。
+* 字体加粗意味着人物是该流派的重要人物。
+* 为方便，重复贴上各流派代表人所在机构的链接。
+* “IA003计算认知小组整理的谷歌表格”里还整理了这些学者的谷歌学术页面链接，以及他们在谷歌学术档案上使用的关键词。参见“[参考信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%8F%82%E8%80%83%E4%BF%A1%E6%81%AF)”。不过这个表格不会再有更新。
 
 ### [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ACT-R 
 
@@ -154,11 +158,11 @@
 
 ### [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)Chinese Scholars
 
+（按拼音首字母排序）
+
 - [陈琦](http://psy.scnu.edu.cn/a/20150624/4.html)
 - [戴俊毅](https://person.zju.edu.cn/junyidai)
-- 高涛
 - [沈模卫](https://person.zju.edu.cn/moweishen#751665)
-- 史忠植
 - [王凌](http://psy.scnu.edu.cn/a/20150624/25.html)
 - [魏坤琳](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/wkl/index.htm)
 - [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
@@ -169,19 +173,24 @@
 
 阳老师推荐的两本著作：
 
-* [Computational Neuroscience and Cognitive Modelling](https://books.google.com/books?hl=en&lr=&id=QjuWAgAAQBAJ&oi=fnd&pg=PP1&dq=Computational+Neuroscience+and+Cognitive+Modelling&ots=xb1Yooud06&sig=jOksz5Qu-cnd9Et0DG1_DDFAsMA)  接地气的一本书，教你用 Python 直接上手编程。
-* [The Cambridge handbook of computational psychology](https://books.google.com/books?hl=en&lr=&id=Qzd8uDG-Xj0C&oi=fnd&pg=PR5&dq=The+Cambridge+Handbook+of+Computational+Psychology&ots=tV_4ie1KI-&sig=qHVB132JJw1MOvP8qOmeD3Tdr5M) 计算认知科学领域最重要的一本著作。
+* [Computational Neuroscience and Cognitive Modelling](https://books.google.com/books?hl=en&lr=&id=QjuWAgAAQBAJ&oi=fnd&pg=PP1&dq=Computational+Neuroscience+and+Cognitive+Modelling&ots=xb1Yooud06&sig=jOksz5Qu-cnd9Et0DG1_DDFAsMA)  接地气的一本书，教你用 Python 直接上手计算模拟。
+* [The Cambridge handbook of computational psychology](https://books.google.com/books?hl=en&lr=&id=Qzd8uDG-Xj0C&oi=fnd&pg=PR5&dq=The+Cambridge+Handbook+of+Computational+Psychology&ots=tV_4ie1KI-&sig=qHVB132JJw1MOvP8qOmeD3Tdr5M) 计算认知科学领域最重要的论文集之一。
 
 - [Computer Models of Mind: Computational Approaches in Theoretical Psychology - Margaret A. Boden - Google Books](https://books.google.com.co/books?hl=en&lr=&id=ZaODfph_Jm8C&oi=fnd&pg=PR9&dq=Computational+Psychology&ots=qJmXw7KuLi&sig=ypVQegBf04xtyfqPMZFdKczBEM4&redir_esc=y#v=onepage&q=Computational%20Psychology&f=false)
 
 * [心智：认知科学导论](https://book.douban.com/subject/10794539/)
 * [算法之美](https://book.douban.com/subject/30155731/)([Algorithms to Live By: The Computer Science of Human Decisions](https://books.google.com/books?hl=en&lr=&id=yvaLCgAAQBAJ&oi=fnd&pg=PR1&ots=rJ2_aVcx50&sig=o3Ip26hcwql51hJFGA1PDroLJn4))：科普，算法在我们的生活中无处不在。
 
-上述书籍都可在豆瓣看到。若是英文书籍，则附上的是 Google Books 的链接，可免费在线阅读全文。英文实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。免费（盗版）PDF文件？额……自己动手丰衣足食。
+上述书籍都可在豆瓣看到。若是英文书籍，则附上的是 Google Books 的链接，可免费在线阅读全文。英文实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。PDF文件？额……自己动手丰衣足食。
 
-以下是论文（有待建立）
+以下是论文（🚧有待完善）
 
 - 周吉帆;徐昊骙;唐宁;史博皓;赵阳;高涛;沈模卫; (2016). “强认知”的心理学研究:来自AlphaGo的启示. 应用心理学, (01 vo 22), 3–11.
+
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)课程
+
+* [NeuroMatch Academy Summer Course]: Neuromatch Academy 的计算神经科学暑校。内含完整的课件，包括视频（Youtube/Bilibili）、幻灯和可在 Colab 中操作的 Jupyter Notebook 。优质入门资料，助你用 Python 建立计算模拟的直觉。这里的内容更导向神经科学，然而计算认知科学和计算神经科学有不小的重叠。
+* [[Computational Cognitive Science | Brain and Cognitive Sciences | MIT OpenCourseWare](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/index.htm)]:  Josh Tenenbaum 2004年计算认知科学课程的课件。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)牛刊与科学新闻
 
@@ -232,14 +241,11 @@
 
 贡献信息：清单的具体信息由小队全体成员搜集；然后部分主要内容由麦云飞整理为表格，并由xdp和ZAPP增补；最后由小耳朵和ZAPP制作这一份清单并由麦云飞来持续维护。
 
-禁止未经许可转载此仓库的内容。欲转载或引用，请先在此仓库的issue留言艾特@MaiYunfei2000或是给maiyunfei2000@gmail.com发邮件联系以征得同意。
+转载或引用请说明出处并附上本仓库链接。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ChangeLog
 
-* 190927 麦云飞 增补一些中国学者。  
-* 190415 麦云飞 增补人物。
-* 190404 麦云飞 勘误。增补斯坦福大学 Wu Tsai 研究所。
-* 190218 麦云飞 建立目录，增补或完善简介、参考信息、声明、常用工具或信息源，并作细节改动。
-* 190212 麦云飞 修改细节，增加`## ⚠️声明`。
+* 210106 麦云飞 于 190212 至 210106 期间进行若干次完善和修改。旧版本定稿。
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
 * 190126 ZAPP 在小耳朵同学基础上增补内容。
+* 1901__ 麦云飞、xdp、ZAPP 收集信息。
