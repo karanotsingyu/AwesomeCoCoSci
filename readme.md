@@ -14,7 +14,7 @@
 	- [Dynamical Systems](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#dynamical-systems)
 	- [Declarative/Logic-Based](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#declarativelogic-based)
 	- [Others](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#others)
-- [入门书单](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%85%A5%E9%97%A8%E4%B9%A6%E5%8D%95)
+- [入门读物](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#入门读物)
 - [牛刊与科学新闻](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E7%89%9B%E5%88%8A%E4%B8%8E%E7%A7%91%E5%AD%A6%E6%96%B0%E9%97%BB)
 - [课程](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#课程)
 - [视频](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%A7%86%E9%A2%91)
@@ -38,7 +38,7 @@
 
 - 几乎所有网站都需要科学上网（或者说，使用梯子）。
 - 这些信息总会有时效性。个别链接，例如《关于计算认知科学的随想》里的一些链接，已经挂掉。它们也许只是随机构或主人网站转移了一个地方，又或者真的是挂了。可以在谷歌上用关键词搜索摸索一下，或是去相应机构的网站四处走走。我们整理的这份清单未来或许也会有链接挂掉。
-- 下面的流派划分只是一个粗略而主观划分，源自 Ron Sun 的《The Cambridge Handbook of Computational Psychology》。这里更偏「理论」或「科学领域」而非「研究方法」（虽然前后两者很多时候是重叠的）。在实际研究中，一位计算认知科学/计算神经科学家通常会运用多种数学模型来做计算建模研究。
+- 下面的流派划分只是一个粗略而主观的划分，源自 Ron Sun 的《The Cambridge Handbook of Computational Psychology》。在实际研究中，一位计算认知科学或计算神经科学家通常会运用多种数学模型来做计算建模研究。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)协会
 
