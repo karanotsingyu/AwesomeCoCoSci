@@ -4,7 +4,7 @@
 
 - [简介](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E7%AE%80%E4%BB%8B)
 - [协会](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%8D%8F%E4%BC%9A)
-- [会议]
+- [会议](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#会议)
 - [奖项](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%A5%96%E9%A1%B9)
 - [机构](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E6%9C%BA%E6%9E%84)
 - [主要流派和学者](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E4%B8%BB%E8%A6%81%E6%B5%81%E6%B4%BE%E5%92%8C%E5%AD%A6%E8%80%85)
@@ -15,14 +15,15 @@
 	- [Declarative/Logic-Based](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#declarativelogic-based)
 	- [Others](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#others)
 - [入门读物](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#入门读物)
-- [牛刊与科学新闻](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E7%89%9B%E5%88%8A%E4%B8%8E%E7%A7%91%E5%AD%A6%E6%96%B0%E9%97%BB)
+- [数据集](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#数据集)
+- [期刊与科学新闻](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#期刊与科学新闻)
 - [课程](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#课程)
 - [视频](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%A7%86%E9%A2%91)
 - [论文选集和其它汇总类信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%A7%86%E9%A2%91)
 - [豆瓣](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%B1%86%E7%93%A3)
 - [参考信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%8F%82%E8%80%83%E4%BF%A1%E6%81%AF)
 - [常用工具或信息源](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%88%96%E4%BF%A1%E6%81%AF%E6%BA%90)
-- [⚠️声明](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%EF%B8%8F%E5%A3%B0%E6%98%8E)
+- [声明](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%EF%B8%8F%E5%A3%B0%E6%98%8E)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)简介
 
@@ -45,6 +46,11 @@
 * 认知科学学会 [Cognitive Science Society](http://www.cognitivesciencesociety.org)
 * 认知计算神经科学会议 [Cognitive computational Neuroscience](https://ccneuro.org/) 
 * 中国认知科学学会 [Chinese Society for Cognitive Science](http://www.cogsci.org.cn/) ：2013年成立
+
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)会议
+
+* [Annual Conferences of the Cognitive Science Society](https://cognitivesciencesociety.org/)
+* [International Conferences on Cognitive Modeling](https://iccm-conference.github.io/index.html)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)奖项
 
@@ -160,45 +166,59 @@
 
 （按拼音首字母排序）
 
-- [陈琦](http://psy.scnu.edu.cn/a/20150624/4.html)
-- [戴俊毅](https://person.zju.edu.cn/junyidai)
-- [沈模卫](https://person.zju.edu.cn/moweishen#751665)
-- [王凌](http://psy.scnu.edu.cn/a/20150624/25.html)
-- [魏坤琳](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/wkl/index.htm)
-- [吴思](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
-- [张航](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/zh/index.htm)
-- [周吉帆](https://person.zju.edu.cn/jifanzhou)
+- [陈琦 | Qi Chen](http://psy.scnu.edu.cn/a/20150624/4.html)
+- [戴俊毅 | Junyi Dai](https://person.zju.edu.cn/junyidai)
+- [沈模卫 | Mowei Shen](https://person.zju.edu.cn/moweishen#751665)
+- [王凌| Ling Wang](http://psy.scnu.edu.cn/a/20150624/25.html)
+- [魏坤琳 | Kunlin Wei](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/wkl/index.htm)
+- [吴思 | Si Wu](http://imibr.bnu.edu.cn/a/zh/keyantuandui/jiaoshou_yanjiuyuan/2016/0223/621.html)
+- [张航 | Hang Zhang](http://www.psy.pku.edu.cn/szdw/qzjy/jsyjy/zh/index.htm)
+- [周吉帆 | Jifan Zhou](https://person.zju.edu.cn/jifanzhou)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)入门读物
 
-阳老师推荐的两本著作：
+### 书籍
+
+阳志平老师推荐的两本著作：
 
 * [Computational Neuroscience and Cognitive Modelling](https://books.google.com/books?hl=en&lr=&id=QjuWAgAAQBAJ&oi=fnd&pg=PP1&dq=Computational+Neuroscience+and+Cognitive+Modelling&ots=xb1Yooud06&sig=jOksz5Qu-cnd9Et0DG1_DDFAsMA)  接地气的一本书，教你用 Python 直接上手计算模拟。
 * [The Cambridge handbook of computational psychology](https://books.google.com/books?hl=en&lr=&id=Qzd8uDG-Xj0C&oi=fnd&pg=PR5&dq=The+Cambridge+Handbook+of+Computational+Psychology&ots=tV_4ie1KI-&sig=qHVB132JJw1MOvP8qOmeD3Tdr5M) 计算认知科学领域最重要的论文集之一。
-
-- [Computer Models of Mind: Computational Approaches in Theoretical Psychology - Margaret A. Boden - Google Books](https://books.google.com.co/books?hl=en&lr=&id=ZaODfph_Jm8C&oi=fnd&pg=PR9&dq=Computational+Psychology&ots=qJmXw7KuLi&sig=ypVQegBf04xtyfqPMZFdKczBEM4&redir_esc=y#v=onepage&q=Computational%20Psychology&f=false)
-
 * [心智：认知科学导论](https://book.douban.com/subject/10794539/)
 * [算法之美](https://book.douban.com/subject/30155731/)([Algorithms to Live By: The Computer Science of Human Decisions](https://books.google.com/books?hl=en&lr=&id=yvaLCgAAQBAJ&oi=fnd&pg=PR1&ots=rJ2_aVcx50&sig=o3Ip26hcwql51hJFGA1PDroLJn4))：科普，算法在我们的生活中无处不在。
 
-上述书籍都可在豆瓣看到。若是英文书籍，则附上的是 Google Books 的链接，可免费在线阅读全文。英文实体书的话，亚马逊有得购买，不过就是~~有点小~~很贵。PDF文件？额……自己动手丰衣足食。
+其它：
 
-以下是论文（🚧有待完善）
+* [Computer Models of Mind: Computational Approaches in Theoretical Psychology - Margaret A. Boden - Google Books](https://books.google.com.co/books?hl=en&lr=&id=ZaODfph_Jm8C&oi=fnd&pg=PR9&dq=Computational+Psychology&ots=qJmXw7KuLi&sig=ypVQegBf04xtyfqPMZFdKczBEM4&redir_esc=y#v=onepage&q=Computational%20Psychology&f=false)
+
+### 论文
+
+（🚧有待完善）
 
 - 周吉帆;徐昊骙;唐宁;史博皓;赵阳;高涛;沈模卫; (2016). “强认知”的心理学研究:来自AlphaGo的启示. 应用心理学, (01 vo 22), 3–11.
+
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)数据集
+
+* [Center for Data on the Mind](http://dataonthemind.org/)
+* [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)课程
 
 * [NeuroMatch Academy Summer Course](https://github.com/NeuromatchAcademy/course-content): Neuromatch Academy 计算神经科学暑校。内含完整的课件，包括视频（Youtube/Bilibili）、幻灯和可在 Colab 中操作的 Jupyter Notebook 。优质入门资料，助你用 Python 建立计算模拟的直觉。这里的内容更导向神经科学，然而计算认知科学和计算神经科学有不小的重叠。或许光是课程大纲就能帮小白建立领域最小全局的印象。
 * [Computational Cognitive Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/index.htm):  Josh Tenenbaum 2004年计算认知科学课程的课件。
 
-## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)牛刊与科学新闻
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)期刊与科学新闻
+
+* [Trends in Cognitive Science](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences?aims-and-scope=true)：由 Cell Press 出版的月度同行评审期刊
+* [Computational Cognitive Science](https://link.springer.com/journal/40469)：2015~2016，2016年12月停刊
+* [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709)
+* [Cognitive Systems Research](https://www.journals.elsevier.com/cognitive-systems-research)
+* [Cognitive Computation](https://www.springer.com/journal/12559)
+
+综合：
 
 * [Scimago Journal & Country Rank](https://www.scimagojr.com/index.php) ：检索学术影响力
-* [Nature的神经科学](https://www.nature.com/subjects/neuroscience)
-* [Science](https://www.sciencemag.org/)：Science杂志为主
-* 认知科学趋势 [Trends in Cognitive Science](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences?aims-and-scope=true)：由Cell Press出版的月度同行评审期刊
-* 计算认知科学 [Computational Cognitive Science](https://link.springer.com/journal/40469)：2015~2016，2016年12月停刊
+* [Nature Neuroscience](https://www.nature.com/subjects/neuroscience)
+* [Science](https://www.sciencemag.org/)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)视频
 
@@ -230,10 +250,11 @@
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)常用工具或信息源
 
 - [Google Scholar](https://scholar.google.com/)
-- [Sci-Hub](https://sci-hub.tw/)：论文盗版PDF资源库。
-- [libgen](http://libgen.io/)：书籍盗版PDF资源库。
+- [Sci-Hub](https://sci-hub.tw/)
+- [libgen](http://libgen.io/)
 - [Acemap](https://www.acemap.info/)：各种知识图谱，例如引文关系。近年建立的一个新网站，许多功能和内容还有待完善。信息沉淀略少，只有涉及计算机领域的数据才会比较全。
 - [Neurotree](https://neurotree.org/neurotree/)：检索学者师承关系。例如约书亚(Joshua)的师承关系可以查看[这张图谱](https://neurotree.org/neurotree/tree.php?pid=661)。
+- [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)：不限于引文空间分析的科学计量学可视化神器。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)⚠️声明
 
@@ -245,7 +266,8 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ChangeLog
 
-* 210106 麦云飞 于 190212 至 210106 期间进行若干次完善和修改。旧版本定稿。
+* 210220 麦云飞 增补期刊、会议和数据集。
+* 210106 麦云飞 于 190212 至 210106 期间就学者和机构信息进行若干次完善和修改。V0.2 版
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
 * 190126 ZAPP 在小耳朵同学基础上增补内容。
 * 1901__ 麦云飞、xdp、ZAPP 收集信息。
