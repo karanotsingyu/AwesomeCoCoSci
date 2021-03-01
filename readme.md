@@ -51,6 +51,7 @@
 
 * [Annual Conferences of the Cognitive Science Society](https://cognitivesciencesociety.org/)
 * [International Conferences on Cognitive Modeling](https://iccm-conference.github.io/index.html)
+* [计算精神病学报告讨论会(Computational psychiatry online journal club(CPoJC))](https://github.com/coolspiderghy/Computational_Psychiatry_online_Journal_Club) 此处也索引了国际上的其它一些研讨会。
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)奖项
 
@@ -266,6 +267,7 @@
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readme.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)ChangeLog
 
+* 210301 麦云飞 增补“计算精神病学报告讨论会”至会议中。
 * 210220 麦云飞 增补期刊、会议和数据集。
 * 210106 麦云飞 于 190212 至 210106 期间就学者和机构信息进行若干次完善和修改。V0.2 版
 * 190127 ZAPP 完善计算认知科学资源，定稿 V0.1 版。
