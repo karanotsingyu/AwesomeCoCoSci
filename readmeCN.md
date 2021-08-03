@@ -22,6 +22,7 @@
 - [课程](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#课程)
 - [视频](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#%E8%A7%86%E9%A2%91)
 - [论文选集和其它汇总类信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#%E8%A7%86%E9%A2%91)
+- [Github 仓库](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#Github-仓库)
 - [豆瓣](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#%E8%B1%86%E7%93%A3)
 - [参考信息](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#%E5%8F%82%E8%80%83%E4%BF%A1%E6%81%AF)
 - [常用工具或信息源](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%88%96%E4%BF%A1%E6%81%AF%E6%BA%90)
@@ -235,6 +236,11 @@
 * [贝叶斯方法的阅读清单](http://cocosci.princeton.edu/tom/bayes.html)：Tom Griffiths总结的贝叶斯方法论文精选集。
 * [认知科学领域相关研究者](http://cseweb.ucsd.edu/~gary/Advice.html)：按学校分类
 * [认知的概率模型](http://probmods.org/)：**Probabilistic Models of Cognition, by Noah D. Goodman, Joshua B. Tenenbaum & The ProbMods Contributors.** This book explores the probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models. We examine how a broad range of empirical phenomena, including intuitive physics, concept learning, causal reasoning, social cognition, and language understanding, can be modeled using probabilistic programs.
+
+## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)Github 仓库
+
+* [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
+* [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
 
 ## [^](https://github.com/MaiYunfei2000/IA003CoCoSci/blob/master/readmeCN.md#%E8%AE%A1%E7%AE%97%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95)豆瓣
 
