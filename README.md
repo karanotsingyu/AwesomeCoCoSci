@@ -7,4 +7,4 @@
 <span id = "gitr"></span>
 ## GitHub repos
 
-* [Awesome Cognitive Machine Learning](https://github.com/YuzheSHI/Awesome-Cognitive-Machine-Learning): An awesome & curated list for cognitive machine learning, an emerging inter-discipline field that combines machine learning and cognitive science as majority, alone with statistics, philosophy, neuroscience, human-computer interaction and sociology. 
+* [Awesome AGI-CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci): An awesome & curated list for cognitive machine learning, an emerging inter-discipline field that combines machine learning and cognitive science as majority, alone with statistics, philosophy, neuroscience, human-computer interaction and sociology. 
